@@ -1,0 +1,43 @@
+对等式网络 P2P
+小型办公室/家庭办公室  SoHO
+接入热点   AP（Access Point）
+网络接口卡 NIC     Interface 接口
+物理端口 Physical Port
+局域网 LAN   广域网 WAN    域域网 MAN
+##无线局域网 WLAN   存储区域网络 SAN
+服务提供商 SP  因特尔服务提供商   ISP
+互联网工程任务组 IETF    互联网架构委员会 IAB
+互联网名称与数字地址分配机构 ICANN
+interenet 互联网    Interenet因特网
+宽带数字用户线路   DSL    非对称DSL    ADSL
+对称数字用户线路    SDSL
+服务质量 QoS    自带设备   BYOD
+无线Internet服务提供商 WISP
+访问控制列表 ACL  入侵防御系统 ISP
+虚拟专用网络 VPN
+开放最短路径优先 OSPF   访问控制列表 ACL
+增强内联网关路由协议EIGRP
+命令行界面 CLI   图形用户界面 GUI
+安全外壳 SSH
+交换机虚拟接口 SVI     动态主机配置协议  DHC
+超文本传送协议 HTTP    传输控制协议 TCP
+网际协议  IP
+协议数据单元  PDU
+电磁干扰 EMI  射频干扰 RFI
+非屏蔽双绞线  UTP    屏蔽双绞线STP
+逻辑链路控制 LLC  介质访问控制 MAC
+争用访问  CSMA/CD
+帧校验序列   FCS   循环冗余校验 CRC
+点对点协议  PPP    烧录地址  BIA
+地址解析协议   ARP
+起始帧分界符 SFD   生存时间TTL
+显式拥塞通知  ECN    因特网控制消息协议  ICMP
+互联网按头tt度   IHL   网络地址转换 NAT
+扩展包头 EH 
+中央处理器 CPU     操作系统 OS
+随机访问存储器 RAM    只读存储器 ROM
+非易失性随机访问存储器   NVRAM
+同步动态随机访问存储器 SDRAM
+WAM接口卡WIC面板  高速WIC（HWIC）
+高级集成模块  AIM
+发光二极管  LED
